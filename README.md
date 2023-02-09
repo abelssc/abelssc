@@ -9,7 +9,7 @@
   </p>
 </h1>
 <!-- RD NO SOPORTA DISPLAY FLEX... -->
-<img style="width: 200px; border-radius: 50%; float:right" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611abadc7a2a53b929cc5fe3ac33b4707035b8a4c73&rid=giphy.gif&ct=g">
+<img align="right" src="./assets/programmer.gif" width="200" >
 
 <!-- ABOUT ME-->
 <div>
