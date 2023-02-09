@@ -23,7 +23,7 @@
       <br>
     </em>
   </p>
-  <img width="230px" border-radius="50%" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611abadc7a2a53b929cc5fe3ac33b4707035b8a4c73&rid=giphy.gif&ct=g">
+  <img style="width: 230px; border-radius: 50%" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611abadc7a2a53b929cc5fe3ac33b4707035b8a4c73&rid=giphy.gif&ct=g">
 </div>
 
 [![Linkedin: abel-anthony-ssc](https://img.shields.io/badge/-abelanthonyssc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abel-anthony-ssc/)](https://www.linkedin.com/in/abel-anthony-ssc/)
